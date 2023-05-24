@@ -3,7 +3,10 @@
 
 - 📫Puedes contactarme a traves de: **glendydd@gmail.com**
 
-- 📄 soy desarrolladora web full stack, formada y egresada de Henry Bootcamp, donde estudié y apliqué diversas tecnologías como React, Redux, Node.js, Express, PostgreSQL en distintos proyectos, los que me permitieron mejorar mis habilidades técnicas para crear o colaborar en proyectos reales que pueden ser de interés para la industria y el mercado IT. Mis aspiraciones están basadas en introducirme al campo laboral IT con miras hacia el crecimiento profesional, técnico de mi carrera y de la empresa a la que pertenezca. Me motiva hacer aportes desde la eficiencia para la resolución de problemas en el desarrollo de paginas y aplicaciones Web, no solo en el ambiente técnico sino también en el relacional.
+- 📄 soy desarrolladora web full stack, formada y egresada de Henry Bootcamp, donde estudié y apliqué diversas tecnologías como React, Redux, Node.js, Express, PostgreSQL en distintos proyectos, los que me permitieron mejorar mis habilidades técnicas para crear o colaborar en proyectos reales que pueden ser de interés para la industria y el mercado IT. 
+- Mis aspiraciones están basadas en introducirme al campo laboral IT con miras hacia el crecimiento profesional, técnico de mi carrera y de la empresa a la que pertenezca. Me motiva hacer aportes desde la eficiencia para la resolución de problemas en el desarrollo de paginas y aplicaciones Web, no solo en el ambiente técnico sino también en el relacional.
+- Me gusta innovar, aprender constantemente y desarrollar nuevos vínculos profesionales, por este motivo decidí ingresar al mundo de la programación y la tecnología. A continuación, mis datos de contacto. 
+
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
